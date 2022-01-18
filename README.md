@@ -1,2 +1,2 @@
 # C# Projects
-Some exmaples and concepts in C#.
+Some examples and concepts in C#.
